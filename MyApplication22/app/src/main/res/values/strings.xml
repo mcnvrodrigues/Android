@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="helloWorld">Hello Heisen</string>
+    <string name="application">SuperMarket</string>
+    <string name="titulo">Informe seu nome</string>
+    <string name="surpreenda_me">Surpreenda-me</string>
+    <string name="saudacao">Olá</string>
+</resources>
